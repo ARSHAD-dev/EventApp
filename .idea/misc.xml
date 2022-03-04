@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/buttonshape.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/aboutsview.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_aboutamtc.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_details.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_events.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_events2.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_members.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_photo.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_up_event_disp.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_amtc_up_events.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_core_team_member.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_event.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_events.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_from_amtc.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
+        <entry key="app/src/main/res/layout/activity_picview.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_social_handle.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_tech_activity.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/amtc_eventrow.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/my_row.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/society_view.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/nav_header.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
